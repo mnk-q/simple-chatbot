@@ -1,0 +1,41 @@
+{"intents":
+    [
+        {
+            "tag":"greeting",
+            "patterns":["Hi","Hello","Is Anyone there?","Hi there","Hola","What's up"],
+            "responses":["Hi There","Hello, Sir","I'm Here, Sir","Good to see you, Sir","S'up my nigga"],
+            "context_set":""
+        },
+        {
+            "tag":"Thank",
+            "patterns":["Thanks","Thank you","Thank u"],
+            "responses":["You're Welcome","Happy to help","Don't Mention it"],
+            "context_set":""
+        },
+        {
+            "tag":"goodbye",
+            "patterns":["Bye","Goodbye","tata","I'm leaving."],
+            "responses":["See you again","Till Next time","Bye-Bye"],
+            "context_set":""
+        },
+        {
+            "tag":"name",
+            "patterns":["Who are you","What is your name","What should I call you","What do you like to be called"],
+            "responses":["I'm Manoj","You can call me Manoj","Manoj, your majesty"],
+            "context_set":""
+        },
+        {
+            "tag":"info",
+            "patterns":["what do you do","What can you do","what is your purpose"],
+            "responses":["I will help you find your sound","I'm your guide to the taste of music","I can play music"],
+            "context_set":""
+        },
+        {
+            "tag":"confuse",
+            "patterns":["","aifsv"],
+            "responses":["Would you please repeat that","I'm afraid I don't understand","Hein?"],
+            "context_set":""
+        }
+        
+    ]
+}
