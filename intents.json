@@ -3,7 +3,7 @@
         {
             "tag":"greeting",
             "patterns":["Hi","Hello","Is Anyone there?","Hi there","Hola","What's up"],
-            "responses":["Hi There","Hello, Sir","I'm Here, Sir","Good to see you, Sir","S'up my nigga"],
+            "responses":["Hi There","Hello, Sir","I'm Here, Sir","Good to see you, Sir","S'up Dude"],
             "context_set":""
         },
         {
@@ -21,7 +21,7 @@
         {
             "tag":"name",
             "patterns":["Who are you","What is your name","What should I call you","What do you like to be called"],
-            "responses":["I'm Manoj","You can call me Manoj","Manoj, your majesty"],
+            "responses":["I'm a Bot","You can call me X","I'm a Bot, sire!"],
             "context_set":""
         },
         {
